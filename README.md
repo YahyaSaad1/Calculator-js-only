@@ -1,2 +1,2 @@
-# Calculator-js-only
+# Calculator1
 Calculator using js only
